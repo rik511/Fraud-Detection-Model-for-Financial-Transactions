@@ -39,8 +39,9 @@ The fraud detection model was developed following standard procedures:
 
 ## Instructions for Use
 Clone this repository to your local machine.
-```sh
-git clone https://github.com/yourusername/fraud-detection-model.git
+   ```sh
+   git clone https://github.com/yourusername/fraud-detection-model.git
+```
    
 ## Installation
 
